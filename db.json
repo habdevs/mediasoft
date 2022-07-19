@@ -1,0 +1,42 @@
+{
+    "notebooks": [{
+            "id": 1,
+            "name": "notebook1",
+            "price": 1010
+        },
+        {
+            "id": 2,
+            "name": "notebook2",
+            "price": 1001
+        },
+        {
+            "id": 3,
+            "name": "notebook3",
+            "price": 1010
+        },
+        {
+            "id": 4,
+            "name": "notebook4",
+            "price": 1020
+        },
+        {
+            "id": 5,
+            "name": "notebook5",
+            "price": 1030
+        }
+
+    ],
+    "posts": [{
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+    }],
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }],
+    "profile": {
+        "name": "typicode"
+    }
+}

@@ -1,0 +1,9 @@
+.cart {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    &>span {
+        display: block;
+        margin-top: 5px;
+    }
+}
